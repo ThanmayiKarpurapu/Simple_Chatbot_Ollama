@@ -42,11 +42,6 @@ Make sure the following are installed:
 ### 1️⃣ Install Python dependencies
 ```bash
 pip install streamlit langchain langchain-ollama
-```Pull an LLM Model using Ollama
-ollama pull gemma3:270m
-```Run Sreamlit (command prompt)
-python -m streamlit run main.py
-```Open in a browser
-http://localhost:8501
+
 
 
