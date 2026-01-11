@@ -1,0 +1,5 @@
+model:
+  name: "gemma3:270m"
+  provider: "ollama"
+  temperature: 0.7
+  max_tokens: 800
